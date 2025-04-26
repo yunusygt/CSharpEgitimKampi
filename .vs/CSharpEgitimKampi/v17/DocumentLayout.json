@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\yunus\\source\\repos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4EF4FBC1-338A-4B67-85A3-AA26F8123776}|07_ForeachLoop\\07_ForeachLoop.csproj|c:\\users\\yunus\\source\\repos\\07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4EF4FBC1-338A-4B67-85A3-AA26F8123776}|07_ForeachLoop\\07_ForeachLoop.csproj|solutionrelative:07_foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2295B11F-AFB2-41B1-84C6-CBD03D38EADA}|08_Methods\\08_Methods.csproj|c:\\users\\yunus\\source\\repos\\08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2295B11F-AFB2-41B1-84C6-CBD03D38EADA}|08_Methods\\08_Methods.csproj|solutionrelative:08_methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,13 +40,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\07_ForeachLoop\\Program.cs",
-              "RelativeDocumentMoniker": "07_ForeachLoop\\Program.cs",
-              "ToolTip": "C:\\Users\\yunus\\source\\repos\\07_ForeachLoop\\Program.cs",
-              "RelativeToolTip": "07_ForeachLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\08_Methods\\Program.cs",
+              "RelativeDocumentMoniker": "08_Methods\\Program.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\08_Methods\\Program.cs",
+              "RelativeToolTip": "08_Methods\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-26T08:57:39.594Z",
+              "WhenOpened": "2025-04-26T17:52:30.147Z",
               "EditorCaption": ""
             }
           ]
