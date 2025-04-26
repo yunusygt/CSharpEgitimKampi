@@ -74,12 +74,92 @@ namespace _07_ForeachLoop
 
             // Bir kelimeyiş harflerine ayıran program
 
-            string word = "Merhaba";
+            //string word = "Merhaba";
 
-            foreach (char c in word)
+            //foreach (char c in word)
+            //{
+            //    Console.WriteLine(c);
+            //}
+
+            #endregion
+
+            //***********************************************************************************************************************************************************
+
+            #region Sınav sistemi uygulaması
+
+            Console.Write("***** C# Eğitim Kampı Sınav Uygulaması *****");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
+            // Sınıftaki öğrencilerin sayısını kullanıcıdan alma
+
+            Console.WriteLine("------------------------------");
+            Console.Write("Sınıfınızda kaç öğrenci var: ");
+            int studentCount = int.Parse(Console.ReadLine());
+            Console.WriteLine("------------------------------");
+
+            // Öğrenci isimlerini ve not ortalamalarını saklayacak diziler.
+
+            string[] studentNames = new string[studentCount];
+            double[] studentExamAvg = new double[studentCount];
+
+            for (int i = 0; i < studentCount; i++)
             {
-                Console.WriteLine(c);
+                Console.WriteLine();
+                Console.Write($"{i + 1}. öğrencinin ismini giriniz: ");
+                studentNames[i] = Console.ReadLine();
+                Console.WriteLine();
+
+                double totalExamResult = 0;
+
+                //Her öğrenci için 3 sınav notu girişi
+
+                for (int j = 0; j < 3; j++)
+                {
+                    Console.Write($"{studentNames[i]} isimli öğrencinin {j + 1}. sınav notunu giriniz: ");
+                    double vlaue = double.Parse(Console.ReadLine());
+                    totalExamResult += vlaue;
+                }
+                Console.WriteLine();
+                studentExamAvg[i] = totalExamResult / 3;
             }
+
+            // Öğrencilerin sınav ortalamalrı
+
+            for (int i = 0; i < studentCount; i++)
+            {
+                Console.WriteLine("------------------------------------");
+
+                Console.WriteLine($"{studentNames[i]} adlı öğrencinin not ortalaması: {studentExamAvg[i]}");
+
+                //Öğrencilerin geçip kalma durumlarını yapma
+
+                if (studentExamAvg[i] <= 50)
+                {
+                    Console.WriteLine($"{studentNames[i]} adlı öğrenci dersten kaldı");
+                }
+                else
+                {
+                    Console.WriteLine($"{studentNames[i]} adlı öğrenci dersi geçti");
+                }
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -95,16 +175,7 @@ namespace _07_ForeachLoop
 
             #endregion
 
-
-
-
-
-
-
-
-
-
-
+            //***********************************************************************************************************************************************************
 
             Console.Read();
 
