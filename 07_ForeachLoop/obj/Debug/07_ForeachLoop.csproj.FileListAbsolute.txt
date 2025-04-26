@@ -5,3 +5,4 @@ C:\Users\Yunus\source\repos\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_Foreac
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.csproj.CoreCompileInputs.cache
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.exe
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
+C:\Users\yunus\source\repos\07_ForeachLoop\obj\Debug\07_ForeachLoop.pdb
