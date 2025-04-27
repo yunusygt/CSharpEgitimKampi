@@ -10,6 +10,8 @@ namespace _00_OrnekProjeler
     {
         static void Main(string[] args)
         {
+
+            #region
             //Klavyeden doğum yılı girilen bir kişinin yaşını hesaplayarak ekrana yazdıran program kodlarını yazınız.
             //int nowYear = 2025;
             //int newAge;
@@ -259,7 +261,101 @@ namespace _00_OrnekProjeler
             //Console.WriteLine("0 ile 100 arasındaki tek sayıların toplamı: " + toplam);
 
             //------------------------------------------------------------------------------------------------
+
+            #endregion
+
+            #region
+            //  İf / Else ile kullanıcının reşit olma durumunu bulma
+            /*
+            string name;
+            int yas;
+            Console.Write("Adınızı griniz: ");
+            name = Console.ReadLine();
+            Console.Write("Yaşınız: ");
+            yas = int.Parse(Console.ReadLine());
+            if ( yas >= 18 )
+            {
+                Console.WriteLine("Kayıt olundu.");
+            }
+            else
+            {
+                Console.WriteLine("Reşit olmadığınız için giriş yapılamadı.");
+            }
+            */
+
+            //  Ad değerinin uzunluğunu bulma
+            /*
+            string name;
+
+            Console.Write("Adınızı giriniz: ");
+            name = Console.ReadLine();
             
+            for (int i = 0; i < name.Length; i++)
+            {
+                Console.WriteLine(name.Length);
+            }
+            */
+
+
+            //Girilen sayılardan en büyük/küçük olanını bulma
+
+
+            //int sayi1=0, sayi2=0;
+
+            //Console.Write("1.sayıyı giriniz: ");
+            //sayi1 = int.Parse(Console.ReadLine());
+            //Console.Write("1.sayıyı giriniz: ");
+            //sayi2 = int.Parse(Console.ReadLine());
+            //if (sayi1 == sayi2)
+            //{
+            //    Console.WriteLine("1.sayı 2.sayıya eşittir.");
+            //}
+            //if (sayi1 > sayi2)
+            //{
+            //    Console.WriteLine("1.sayı 2.sayıdan büyüktür.");
+            //}
+            //if (sayi1 < sayi2)
+            //{
+            //    Console.WriteLine("1.sayı 2.sayıdan küçüktür.");
+            //}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            #endregion
+
 
 
 

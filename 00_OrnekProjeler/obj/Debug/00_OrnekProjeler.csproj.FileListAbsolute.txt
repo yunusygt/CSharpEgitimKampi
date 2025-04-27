@@ -5,3 +5,10 @@ C:\Users\Yunus\source\repos\CSharpEgitimKampi\00_OrnekProjeler\obj\Debug\00_Orne
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.csproj.CoreCompileInputs.cache
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.exe
 C:\Users\Yunus\source\repos\CSharpEgitimKampi\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.pdb
+C:\Users\yunus\source\repos\00_OrnekProjeler\bin\Debug\00_OrnekProjeler.exe.config
+C:\Users\yunus\source\repos\00_OrnekProjeler\bin\Debug\00_OrnekProjeler.exe
+C:\Users\yunus\source\repos\00_OrnekProjeler\bin\Debug\00_OrnekProjeler.pdb
+C:\Users\yunus\source\repos\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.csproj.AssemblyReference.cache
+C:\Users\yunus\source\repos\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.csproj.CoreCompileInputs.cache
+C:\Users\yunus\source\repos\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.exe
+C:\Users\yunus\source\repos\00_OrnekProjeler\obj\Debug\00_OrnekProjeler.pdb
