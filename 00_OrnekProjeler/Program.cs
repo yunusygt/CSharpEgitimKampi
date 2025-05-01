@@ -321,28 +321,30 @@ namespace _00_OrnekProjeler
 
 
 
+            //int[] numbers = { 1, 2, 10, 85, 97, 56 };
+            //Console.WriteLine(numbers.Max());
+            //Console.WriteLine(numbers.Min());
 
 
 
+            //string[] cities = new string[5];
+            //for (int i = 0; i < cities.Length; i++)
+            //{
+            //    Console.Write($"Lütfen {i + 1}. Şehri Giriniz: ");
+            //    cities[i] = Console.ReadLine();
+            //}
+            //for (int i = 0;i < cities.Length;i++)
+            //{
+            //    Console.WriteLine(cities[i]);
+            //}
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            //string[] cities = { "Aydın", "İzmir", "Ankara", "Bursa", "İstanbul", "Trabzon", "Kayseri", "Şırnak", "Eskişehir" };
+            //Array.Sort(cities); /* Önce diziyi alfabetik sıraya diz */
+            //foreach (string x in cities)
+            //{
+            //    Console.WriteLine(x); /* x değişkeninin üstlendiği dizi değerlerini consol ekranına yazdır. */
+            //}
 
 
 
