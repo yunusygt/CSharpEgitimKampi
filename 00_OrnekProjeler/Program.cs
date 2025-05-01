@@ -339,12 +339,12 @@ namespace _00_OrnekProjeler
             //}
 
 
-            //string[] cities = { "Aydın", "İzmir", "Ankara", "Bursa", "İstanbul", "Trabzon", "Kayseri", "Şırnak", "Eskişehir" };
-            //Array.Sort(cities); /* Önce diziyi alfabetik sıraya diz */
-            //foreach (string x in cities)
-            //{
-            //    Console.WriteLine(x); /* x değişkeninin üstlendiği dizi değerlerini consol ekranına yazdır. */
-            //}
+            string[] cities = { "Aydın", "İzmir", "Ankara", "Bursa", "İstanbul", "Trabzon", "Kayseri", "Şırnak", "Eskişehir" };
+            Array.Sort(cities); /* Önce diziyi alfabetik sıraya diz */
+            foreach (string x in cities)
+            {
+                Console.WriteLine(x); /* x değişkeninin üstlendiği dizi değerlerini consol ekranına yazdır. */
+            }
 
 
 

@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\yunus\\source\\repos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D82FF3A0-8BA1-47DE-8055-2974B926712E}|00_OrnekProjeler\\00_OrnekProjeler.csproj|c:\\users\\yunus\\source\\repos\\00_ornekprojeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75A3FA60-A395-406D-8787-1CE4E6F7B1C6}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\yunus\\source\\repos\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A3FA60-A395-406D-8787-1CE4E6F7B1C6}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82FF3A0-8BA1-47DE-8055-2974B926712E}|00_OrnekProjeler\\00_OrnekProjeler.csproj|C:\\Users\\yunus\\source\\repos\\00_ornekprojeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82FF3A0-8BA1-47DE-8055-2974B926712E}|00_OrnekProjeler\\00_OrnekProjeler.csproj|solutionrelative:00_ornekprojeler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,14 +44,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\09_DatabaseProject\\Program.cs",
+              "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
+              "ToolTip": "C:\\Users\\yunus\\source\\repos\\09_DatabaseProject\\Program.cs",
+              "RelativeToolTip": "09_DatabaseProject\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T13:20:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\yunus\\source\\repos\\00_OrnekProjeler\\Program.cs",
               "RelativeDocumentMoniker": "00_OrnekProjeler\\Program.cs",
               "ToolTip": "C:\\Users\\yunus\\source\\repos\\00_OrnekProjeler\\Program.cs",
               "RelativeToolTip": "00_OrnekProjeler\\Program.cs",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAqwFUBAAB7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoBAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T17:43:17.475Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-27T17:43:17.475Z"
             }
           ]
         }
