@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{0AD4CCFD-7977-452B-BF0E-A1841F673ECF}|10_DatabaseCrud\\10_DatabaseCrud.csproj|solutionrelative:10_databasecrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{75A3FA60-A395-406D-8787-1CE4E6F7B1C6}|09_DatabaseProject\\09_DatabaseProject.csproj|c:\\users\\yunus\\source\\repos\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{75A3FA60-A395-406D-8787-1CE4E6F7B1C6}|09_DatabaseProject\\09_DatabaseProject.csproj|C:\\Users\\yunus\\source\\repos\\09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{75A3FA60-A395-406D-8787-1CE4E6F7B1C6}|09_DatabaseProject\\09_DatabaseProject.csproj|solutionrelative:09_databaseproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "10_DatabaseCrud\\Program.cs",
               "ToolTip": "C:\\Users\\yunus\\source\\repos\\10_DatabaseCrud\\Program.cs",
               "RelativeToolTip": "10_DatabaseCrud\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T20:43:26.208Z",
               "EditorCaption": ""
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "09_DatabaseProject\\Program.cs",
               "ToolTip": "C:\\Users\\yunus\\source\\repos\\09_DatabaseProject\\Program.cs",
               "RelativeToolTip": "09_DatabaseProject\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-01T13:20:53.598Z",
               "EditorCaption": ""
