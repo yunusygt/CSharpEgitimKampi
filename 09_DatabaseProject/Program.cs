@@ -32,7 +32,7 @@ namespace _09_DatabaseProject
 
             SqlConnection connection = new SqlConnection("Data Source=YANNIS;initial Catalog=EgitimKampiDb;integrated security=true");
             connection.Open();
-            SqlCommand command = new SqlCommand("select * from TblCategory",connection);
+            SqlCommand command = new SqlCommand("select * from TblCategory", connection);
             SqlDataAdapter adapter = new SqlDataAdapter(command);
             DataTable dataTable = new DataTable();
             adapter.Fill(dataTable);
@@ -46,6 +46,50 @@ namespace _09_DatabaseProject
                 }
                 Console.WriteLine();
             }
+
+            //SqlConnection connection = new SqlConnection("Data Source=YANNIS;initial Catalog=EgitimKampiDb;integrated security=true");
+            //connection.Open();
+            //SqlCommand command = new SqlCommand("select ProductName from TblProduct", connection);
+            //SqlDataAdapter adapter = new SqlDataAdapter(command);
+            //DataTable dataTable = new DataTable();
+            //adapter.Fill(dataTable);
+            //connection.Close();
+
+            //foreach (DataRow row in dataTable.Rows)
+            //{
+            //    foreach (var item in row.ItemArray)
+            //    {
+            //        Console.Write(item.ToString());
+            //    }
+            //    Console.WriteLine();
+            //}
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
