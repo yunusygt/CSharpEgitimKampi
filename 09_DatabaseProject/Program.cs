@@ -20,7 +20,6 @@ namespace _09_DatabaseProject
             //Console.WriteLine();
 
             //string tableNumber;
-
             //Console.WriteLine("---------------------------------------------------------------");
             //Console.WriteLine("1-Kategoriler");
             //Console.WriteLine("2-Ürünler");
