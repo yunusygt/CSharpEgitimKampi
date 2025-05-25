@@ -5,3 +5,4 @@ C:\Users\yunus\source\repos\08_Methods\obj\Debug\08_Methods.csproj.AssemblyRefer
 C:\Users\yunus\source\repos\08_Methods\obj\Debug\08_Methods.csproj.CoreCompileInputs.cache
 C:\Users\yunus\source\repos\08_Methods\obj\Debug\08_Methods.exe
 C:\Users\yunus\source\repos\08_Methods\obj\Debug\08_Methods.pdb
+C:\Users\yunus\source\repos\08_Methods\obj\Debug\08_Methods.exe.config

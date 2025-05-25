@@ -65,9 +65,8 @@ namespace _08_Methods
 
             // kullanıcıdan alınan 3 tane sayının toplamı
 
-            //void Sum(int number1,int number2,int number3)
+            //void sum(int number1, int number2, int number3)
             //{
-            //    /*
 
             //    Console.Write("1.sayıyı giriniz: ");
             //    number1 = int.Parse(Console.ReadLine());
@@ -76,12 +75,12 @@ namespace _08_Methods
             //    Console.Write("3.sayıyı giriniz: ");
             //    number3 = int.Parse(Console.ReadLine());
 
-            //    */
+                
 
             //    int result = number1 + number2 + number3;
             //    Console.WriteLine(result);
             //}
-            //Sum(0,0,0);
+            //sum(0, 0, 0);
 
 
             #endregion
@@ -178,6 +177,45 @@ namespace _08_Methods
             //Console.WriteLine(examResult("Gamze",50,30,40));
 
             #endregion
+
+
+           //double dikdortgenAlanı(double kisa, double uzun)
+           // {
+           //     double alan = kisa * uzun;
+           //     return alan;
+           // }
+
+           // double x, y;
+
+           // Console.Write("1.sayıyı giriniz: ");
+           // x = double.Parse(Console.ReadLine());
+           // Console.Write("2.sayıyı giriniz: ");
+           // y = double.Parse(Console.ReadLine());
+           // Console.WriteLine($"Dikdörtgenin alanı: {dikdortgenAlanı(x, y)}");
+
+
+            //int TekMiCiftMi(int sayi)
+            //{
+            //    if (sayi % 2 == 0)
+            //    {
+            //        Console.WriteLine($"{sayi} sayısı: Çift");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine($"{sayi} sayısı: Tek");
+            //    }
+            //    return sayi;
+            //}
+
+            //int x;
+            //Console.Write("Bir sayı giriniz: ");
+            //x = int.Parse( Console.ReadLine() );
+
+            //TekMiCiftMi(x);
+
+
+
+
 
             Console.Read();
         }
