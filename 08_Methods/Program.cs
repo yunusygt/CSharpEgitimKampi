@@ -75,7 +75,7 @@ namespace _08_Methods
             //    Console.Write("3.sayıyı giriniz: ");
             //    number3 = int.Parse(Console.ReadLine());
 
-                
+
 
             //    int result = number1 + number2 + number3;
             //    Console.WriteLine(result);
@@ -176,22 +176,23 @@ namespace _08_Methods
             //Console.WriteLine(examResult("Ali",100,80,60));
             //Console.WriteLine(examResult("Gamze",50,30,40));
 
-            #endregion
+
+            //----------------------------------------------------------------------------------------
 
 
-           //double dikdortgenAlanı(double kisa, double uzun)
-           // {
-           //     double alan = kisa * uzun;
-           //     return alan;
-           // }
+            //double dikdortgenAlanı(double kisa, double uzun)
+            // {
+            //     double alan = kisa * uzun;
+            //     return alan;
+            // }
 
-           // double x, y;
+            // double x, y;
 
-           // Console.Write("1.sayıyı giriniz: ");
-           // x = double.Parse(Console.ReadLine());
-           // Console.Write("2.sayıyı giriniz: ");
-           // y = double.Parse(Console.ReadLine());
-           // Console.WriteLine($"Dikdörtgenin alanı: {dikdortgenAlanı(x, y)}");
+            // Console.Write("1.sayıyı giriniz: ");
+            // x = double.Parse(Console.ReadLine());
+            // Console.Write("2.sayıyı giriniz: ");
+            // y = double.Parse(Console.ReadLine());
+            // Console.WriteLine($"Dikdörtgenin alanı: {dikdortgenAlanı(x, y)}");
 
 
             //int TekMiCiftMi(int sayi)
@@ -213,6 +214,7 @@ namespace _08_Methods
 
             //TekMiCiftMi(x);
 
+            #endregion
 
 
 
